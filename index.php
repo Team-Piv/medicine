@@ -9,6 +9,7 @@
  </head>
  <body>
    <h1>ようこそ、ログインしてください。</h1>
+   <h2>test</h2>
    <form  action="login.php" method="post">
      <label for="email">email</label>
      <input type="email" name="email">
