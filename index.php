@@ -1,5 +1,5 @@
 <!-- sample -->
-<!-- tsurumi -->
+<!-- tsurumi k-->
 <?php
  ?>
 
