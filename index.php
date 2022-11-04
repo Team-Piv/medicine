@@ -1,14 +1,17 @@
 <!-- sample -->
+<!-- Taka -->
 <?php
- ?>
+?>
 
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
   <meta charset="utf-8">
   <link rel="stylesheet" href="style.css">
   <title>Login</title>
 </head>
+
 <body>
   <form name="login_form">
     <div class="login_form_top">
@@ -21,5 +24,6 @@
       <input type="submit" name="botton" value="LOGIN">
     </div>
   </form>
- </body>
+</body>
+
 </html>
